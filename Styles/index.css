@@ -1,0 +1,34 @@
+body {
+    background-color: chartreuse;
+    background-size: 49%;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+}
+
+.Container-1 {
+    background-color: white;
+    height: 355px;
+    width: 280px;
+    border-radius: 20px;
+    position: absolute;
+    margin-top: 250px;
+    margin-left: 550px;
+}
+
+.Main-title {
+    font-family: 'Dancing Script', cursive;
+    font-size: 30px;
+    margin-left: 29px;
+}
+
+.Invite-title {
+    font-family: 'Dancing Script', cursive;
+    margin-left: 36px;
+}
+
+.Main-info {
+    font-family: 'Dancing Script', cursive;
+    margin-left: 28px;
+    line-height: 27px;
+}
