@@ -25,10 +25,28 @@ body {
 .Invite-title {
     font-family: 'Dancing Script', cursive;
     margin-left: 36px;
+    color: crimson;
+    text-shadow: 2px 2px yellow;
 }
 
 .Main-info {
     font-family: 'Dancing Script', cursive;
     margin-left: 28px;
     line-height: 27px;
+}
+
+.Cat {
+    height: 300px;
+    position: absolute;
+    transform: translateY();
+    right: 34px;
+    bottom: 20px;
+}
+
+.Cake {
+    height: 400px;
+    position: absolute;
+    transform: translateY();
+    bottom: 100px;
+    left: 55px;
 }
